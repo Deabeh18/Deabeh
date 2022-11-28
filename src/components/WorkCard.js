@@ -26,12 +26,10 @@ export default function WorkCard() {
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">
-                  EasyTech
+                  Music
                 </summary>
                 <p>
-                  Epcot is a theme park at Walt Disney World Resort featuring
-                  exciting attractions, international pavilions, award-winning
-                  fireworks and seasonal special events.
+                  I have worked on several projects and some have gain me a lot of fans. lately i have been working on some songs which i will be releasing any time this year. here are some of my songs I
                 </p>
               </details>
 
