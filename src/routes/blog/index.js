@@ -30,8 +30,8 @@ export default function Blog() {
               From the blog
             </h2>
             <p class="mx-auto mt-3 max-w-2xl text-xl text-gray-500 sm:mt-4">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa
-              libero labore natus atque, ducimus sed.
+              Welcome to this blog please stick around to find some nice content that will suit your view 
+              it's fun playing around with some work and having fun with friends
             </p>
           </div>
           <div class="mx-auto mt-12 grid max-w-lg gap-5 lg:max-w-none lg:grid-cols-3">
